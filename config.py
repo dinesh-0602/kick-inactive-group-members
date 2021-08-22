@@ -21,11 +21,7 @@ class Messages():
         
         "**Examples**\n```/inkick within_month long_time_ago``` - __To kick users who are offline for more than 6-7 days.__\n\n```/inkick long_time_ago``` - __To kick members who are offline for more than a month and Deleted Accounts.__\n\n```/dkick``` - __To kick deleted accounts.__",
         
-        "**Developer - @viperadnan**"\n\n
-        
-        "**Creator - @dinesh_060298**"\n\n
-
-        "** Join - @VaathiCloud**"\n
+        "**Developer - @viperadnan**"\n\n"**Creator - @dinesh_060298**"\n\n"** Join - @VaathiCloud**"
         ]
 
       START_MSG = "**Hey [{}](tg://user?id={})**\n__I can kick inactive members from group.\nLearn more at /help__"
